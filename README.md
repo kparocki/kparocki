@@ -7,6 +7,7 @@ Well, statistical gimmicks were also revealed to me. I can **bootstrap** a datas
 If you are math-savvy, I can optimize a constrained multivariate function using **the Lagrangian** on an old-school blackboard.
 
 I also know **Excel** in-depth because
+
 ![Excel-Atlas with the entire financial system on his shoulders](/assets/fzw82b6rfre71.png)
 
 Did you know that you can compile a 3D globe in this software? Now you know.
@@ -34,9 +35,11 @@ Most of the time, it is best to go for a Tall empire (few High Population cities
 
 As you could imagine, your early game in civ will shape your entire game. So play it well.
 
-1. Scouts: Scouts are pretty weak, but they are quick and very handy on maps with a lot of land. Scouts will allow you to get to Ancient Ruins before the AI. Building Scouts should therefore be your top priority in the first few turns. As Such, I always tend to build 2 scouts, granting me 3 units to explore with by turn 10-12 if I count my warrior. This will allow you to find some good city locations that will serve your greatly when you start to expand your empire.
+#### Scouts
+Scouts are pretty weak, but they are quick and very handy on maps with a lot of land. Scouts will allow you to get to Ancient Ruins before the AI. Building Scouts should therefore be your top priority in the first few turns. As Such, I always tend to build 2 scouts, granting me 3 units to explore with by turn 10-12 if I count my warrior. This will allow you to find some good city locations that will serve your greatly when you start to expand your empire.
 
-2. Technologies: Whatever your starting location might be, coastal, grasslands, hills, 90% of the time you will want to research Pottery first. Getting access to the Shrine as early as possible will allow you to maybe get a very good pantheon, which could give you the advantage you need to beat a deity AI. I tend to build a shrine as soon as my 2nd scout is done.
+#### Technologies
+Whatever your starting location might be, coastal, grasslands, hills, 90% of the time you will want to research Pottery first. Getting access to the Shrine as early as possible will allow you to maybe get a very good pantheon, which could give you the advantage you need to beat a deity AI. I tend to build a shrine as soon as my 2nd scout is done.
 
 Don't bother trying yo rush the Great Library, on Immortal/Deity, the AI will usually finish building it long before you even research writing. 
 
@@ -46,9 +49,12 @@ As for what comes next technology-wise, prioritize researching technologies that
 
 Once again there is no fixed way to do it. The main thing is to get your luxuries connected ASAP, and to start researching Philosphy before too long. You want to be able to get your National College around turn 100 on Standard Speed. The quicker the better.
 
-3. Culture: Going full Tradition works well on deity. As mentioned before, being able to purchase Engineers with faith, while giving your empire a growth and happiness boost is really good and allows great playstyle flexibility.
+#### Culture
+Going full Tradition works well on deity. As mentioned before, being able to purchase Engineers with faith, while giving your empire a growth and happiness boost is really good and allows great playstyle flexibility.
 
 Having finished tradition, you should start having a fairly strong empire, thanks to good growth in your cities. This will help you most on the long run, as high pop cities mean lots of science.
+
+#### Early Game
 
 Build a worker before your first settler, you want to get those luxuries online ASAP. Start improving luxuries that give production with your worker first (Gold or Silver for instance). Since your city stops growing when you produce your settler, you'll be able to switch all your city work tiles to full production ones. As such, improving tiles that will give additional production will always be helpful when you build your settler. Chopping forests also works to speed up your settler construction time.
 
@@ -57,6 +63,8 @@ When you expand, try to get cities at a reasonable distance from your capital, i
 I would advise you to hard build libraries in your first 3 cities and purchase one in your 4th one. This will allow you to get started on National College in a pretty efficient and speedy way. Once National College is done, devote your research to getting to Education as fast as possible. You want to get Universities' specialist slots ASAP, so you may get universities which greatly boost your science output (+8 base science, add the 50% from Observatoris, national college, research lab and the 33% from universities and you get a lot of extra science !)
 
 Use Trade routes for High Science and Gold.
+
+#### Mid to Late Game
 
 Keep your cities growing, produce a reasonable enough army for defense purposes, 6 to 7 crossbowmen should do the trick for a 4 city empire. Once you get universities done in every city, you gain a lot more flexibility in the game, slowly but surely, you'll catch up the AI in technologies (which the early game in deity is all about) and eventually, you'll eclipse them (if you have good well timed research agreement).
 
